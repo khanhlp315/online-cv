@@ -37,12 +37,6 @@ sidebar:
       - item: Nghe nhạc
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Từng làm việc trong nhiều dự án freelance về game và phần mềm.
-      
-
 education:
     - degree: Kỹ sư phần mềm
       university: Đại học Công nghệ thông tin
@@ -50,7 +44,7 @@ education:
       details: |
 
 projects:
-    title: Projects
+    title: Dự án
     intro: >
 
     assignments:
